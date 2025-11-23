@@ -1,0 +1,18 @@
+[
+    {
+        "isbn": "9781616893323",
+        "titol": "Graphic Design: The New Basics",
+        "autor": "Ellen Lupton",
+        "categoria": "Disseny gràfic",
+        "any_publicacio": 2015,
+        "idioma": "Anglès"
+    },
+    {
+        "isbn": "9781593276034",
+        "titol": "Python Crash Course",
+        "autor": "Eric Matthes",
+        "categoria": "Python",
+        "any_publicacio": 2019,
+        "idioma": "Anglès"
+    }
+]
